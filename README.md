@@ -6,7 +6,7 @@ Organising a meetup can be a pain. It's hard figuring out when you're all free, 
 
 This application helps to organize a meetup of friends by choosing a date for them based on the whole group’s availability and preferences, all while maintaining individuals’ privacy and not storing any user data.
 
-## Heyday Team
+### Heyday Team
 - [Matt Zimmer](https://github.com/Zimmja)
 - [Myoung Bae](https://github.com/mhbae-dev)
 - [Andrew Bird](https://github.com/AndyBird88)
